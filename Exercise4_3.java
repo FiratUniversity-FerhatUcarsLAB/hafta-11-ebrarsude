@@ -24,9 +24,35 @@ public class Exercise4_3 {
 }
 
 
-sistemin çıktısı;
+Sistemin Ciktisi;
 No, I wug.
 You wugga wug.
 I wug.
+
+Stack Diyagrami;
+┌──────────────────────────────┐
+│          ping()              │
+│  Parametre: yok              │
+│  Yerel değişken: yok         │
+└──────────────▲───────────────┘
+               │ çağıran
+┌──────────────────────────────┐
+│         baffle()             │
+│  Parametre: yok              │
+│  Yerel değişken: yok         │
+└──────────────▲───────────────┘
+               │ çağıran
+┌──────────────────────────────┐
+│           zoop()             │
+│  Parametre: yok              │
+│  Yerel değişken: yok         │
+└──────────────▲───────────────┘
+               │ çağıran
+┌──────────────────────────────┐
+│  main(String[] args)         │
+│  Parametre: args             │
+│  Yerel değişken: yok         │
+└──────────────────────────────┘
+
 
 
