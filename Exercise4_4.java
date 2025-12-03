@@ -19,3 +19,15 @@ public class Exercise4_4 {
         // Cevaplarinizi yorum olarak ekleyin.
     }
 }
+
+cevap1;
+-Java bunu tamamen geçerli kabul eder.
+-Derleyici hata vermez, çünkü bu bir yan etki içeren çağrı olabilir (log yazabilir, bir şeyi başlatabilir vs.).
+-Ancak IDE (IntelliJ, Eclipse vs.) “Return value is ignored” şeklinde uyarı verebilir. 
+    
+cevap2;
+Bu derleme hatasıdır.
+Çünkü sayHello() metodu void türündedir — yani değer döndürmez.
+
+Java’da + operatörü iki değer arasında çalışır.
+Ama void, bir değer değildir → bu nedenle işlem yapılamaz.
