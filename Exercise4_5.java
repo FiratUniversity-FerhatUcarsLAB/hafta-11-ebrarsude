@@ -25,3 +25,28 @@ public class Exercise4_5 {
         System.out.println("any " + strangStrung + "more ");
     }
 }
+
+Programin Tam Ciktisi;
+just for
+any not more 
+It's breakfast 
+!
+
+
+Stack Diyagrami;
+┌──────────────────────────────────────────────┐
+│            zoop(fred = "breakfast ",         │
+│                  bob = 4)                    │
+└─────────────────────▲────────────────────────┘
+                      │ çağıran
+┌──────────────────────────────────────────────┐
+│            clink(fork = 4)                   │
+└─────────────────────▲────────────────────────┘
+                      │ çağıran
+┌──────────────────────────────────────────────┐
+│   main(String[] args)                        │
+│   Yerel değişkenler:                         │
+│     bizz = 5                                 │
+│     buzz = 2                                 │
+└──────────────────────────────────────────────┘
+
